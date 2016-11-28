@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class EnemyTest {
-    
+
     @Test
     public void attack() throws Exception {
         int heroHP = 10;
